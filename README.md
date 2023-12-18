@@ -1,9 +1,12 @@
-# 📈 Stock Prices Predicting Project
+# 📈 Stock market prediction
 
 ## Avaliable models:
  - LSTM, 
  - Random Forest, 
  - ARIMA. 
+
+## Data:
+Market data from Yahoo! Finance (yfinance)
 
 ## Project setup
 
